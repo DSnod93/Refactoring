@@ -6,5 +6,5 @@ Refactoring code of a web application to allow for more accessibility. Semananti
 
 <img src="assets/images/digital-marketing-meeting.jpg" height="400">
 
-## Access Here :  ![](https://dsnod93.github.io/Refactoring/)
+## Access Here :  (https://dsnod93.github.io/Refactoring/)
 
